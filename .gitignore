@@ -1,3 +1,12 @@
 pycaret_env/
 
 student_performance_data_.csv
+
+
+catboost_info/
+
+data/
+
+logs.log
+
+qda1.pkl
